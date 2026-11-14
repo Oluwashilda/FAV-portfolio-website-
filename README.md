@@ -119,7 +119,7 @@ Project Roadmap
 * [x]	Build the portfolio interface.
 * [x]	Create the nail-design gallery using original portfolio images.
 * [x]	Develop the artist introduction and contact sections.
-* [ ]	Publish the project to GitHub.
+* [X]	Publish the project to GitHub.
 * [ ]	Deploy the website to Vercel.
 * [ ]	Test the production website across devices.
 * [ ]	Connect a custom domain.
