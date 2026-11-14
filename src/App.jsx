@@ -1,69 +1,87 @@
 
 import './index.css'
+import fuchsiaChrome from './images/ughhh.fav.jpg';
+import darkAesthetics from './images/gliterry.dark.jpg';
+import prettyInPink from './images/candycrush.jpg';
+import burgundyBliss from './images/burgundy.jpg';
+import blushHour from './images/pretty.in.pink.jpg';
+import cleanSet from './images/fushia.elegance.jpg';
+import cherryOnTop from './images/frenchtipsy.jpg';
+import milkyFrenchTips from './images/french.tip.jpg';
+import prettyInNeutrals from './images/pretty.in.neutrals.jpg';
+import mainCharacter from './images/monochrome.star.jpg';
 
 const nailDesigns = [
   {
     name: 'Fuchsia Chrome',
     category: 'CHROME / GEL',
     image:
-      'src/images/ughhh.fav.jpg',
+      fuchsiaChrome,
     className: 'photo-one',
   },
   {
     name: 'Dark Aesthetics',
     category: 'NAIL ART / GEL',
     image:
-      'src/images/gliterry.dark.jpg',
+      darkAesthetics,
     className: 'photo-two',
   },
   {
     name: 'Pretty in Pink',
     category: 'CUSTOM SET',
     image:
-      'src/images/candycrush.jpg',
+      prettyInPink,
     className: 'photo-three',
   },
   {
     name: 'Burgundy Bliss',
     category: 'CUSTOM SET',
     image:
-      'src/images/burgundy.jpg',
+      burgundyBliss,
+    className: 'photo-four',
   },
   {
     name: 'Blush Hour',
     category: 'PINK / MINIMAL',
     image:
-      'src/images/pretty.in.pink.jpg',
+      blushHour,
+    className: 'photo-five',
   },
   {
     name: 'The Clean Set',
     category: 'CLEAN GIRL / GEL',
     image:
-      'src/images/fushia.elegance.jpg',
+      cleanSet,
+    className: 'photo-six',
   },
   {
     name: 'Cherry On Top',
     category: 'NAIL ART',
     image:
-      'src/images/frenchtipsy.jpg',
+      cherryOnTop,
+    className: 'photo-seven',
   },
   {
     name: 'Milky French Tips',
     category: 'GLOSS / CHROME',
     image:
-      'src/images/french.tip.jpg',
+      'milkyFrenchTips',
+    className: 'photo-eight',
+
   },
   {
     name: 'Pretty in Neutrals',
     category: 'NUDE / ELEGANT',
     image:
-      'src/images/frenchtipsy.jpg',
+      'prettyInNeutrals',
+    className: 'photo-nine',
   },
   {
     name: 'Main Character',
     category: 'SIGNATURE SET',
     image:
-      'src/images/monochrome.star.jpg',
+      'mainCharacter',
+    className: 'photo-ten',
   },
 
 ]
