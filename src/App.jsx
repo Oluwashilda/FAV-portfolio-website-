@@ -240,7 +240,7 @@ function App() {
         <div className="booking-actions">
           <a
             className="button button-primary"
-            href="https://wa.me/"
+            href="https://wa.me/2349049110709"
             target="_blank"
             rel="noreferrer"
           >
