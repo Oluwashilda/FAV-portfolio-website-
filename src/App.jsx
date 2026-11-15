@@ -1,5 +1,6 @@
 
 import './index.css'
+
 import fuchsiaChrome from './images/ughhh.fav.jpg';
 import darkAesthetics from './images/gliterry.dark.jpg';
 import prettyInPink from './images/candycrush.jpg';
@@ -8,7 +9,6 @@ import blushHour from './images/pretty.in.pink.jpg';
 import cleanSet from './images/fushia.elegance.jpg';
 import cherryOnTop from './images/frenchtipsy.jpg';
 import milkyFrenchTips from './images/french.tip.jpg';
-import prettyInNeutrals from './images/pretty.in.neutrals.jpg';
 import mainCharacter from './images/monochrome.star.jpg';
 
 const nailDesigns = [
@@ -38,50 +38,37 @@ const nailDesigns = [
     category: 'CUSTOM SET',
     image:
       burgundyBliss,
-    className: 'photo-four',
+    
   },
   {
     name: 'Blush Hour',
     category: 'PINK / MINIMAL',
     image:
       blushHour,
-    className: 'photo-five',
   },
   {
     name: 'The Clean Set',
     category: 'CLEAN GIRL / GEL',
     image:
       cleanSet,
-    className: 'photo-six',
   },
   {
     name: 'Cherry On Top',
     category: 'NAIL ART',
     image:
       cherryOnTop,
-    className: 'photo-seven',
   },
   {
     name: 'Milky French Tips',
     category: 'GLOSS / CHROME',
     image:
-      'milkyFrenchTips',
-    className: 'photo-eight',
-
-  },
-  {
-    name: 'Pretty in Neutrals',
-    category: 'NUDE / ELEGANT',
-    image:
-      'prettyInNeutrals',
-    className: 'photo-nine',
+      milkyFrenchTips,
   },
   {
     name: 'Main Character',
     category: 'SIGNATURE SET',
     image:
-      'mainCharacter',
-    className: 'photo-ten',
+      mainCharacter,
   },
 
 ]
