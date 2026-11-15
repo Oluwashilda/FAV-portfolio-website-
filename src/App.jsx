@@ -10,6 +10,7 @@ import cleanSet from './images/fushia.elegance.jpg';
 import cherryOnTop from './images/frenchtipsy.jpg';
 import milkyFrenchTips from './images/french.tip.jpg';
 import mainCharacter from './images/monochrome.star.jpg';
+import favPortrait from './images/fav.jpeg';
 
 const nailDesigns = [
   {
@@ -210,7 +211,7 @@ function App() {
         
         <img
          className="about-mark" 
-         src="src/images/fav.jpeg"
+        src= {favPortrait}
          alt="FAV, the nail artist"
         />
       
